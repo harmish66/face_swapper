@@ -1,0 +1,5 @@
+credit coin text 
+3  
+font = gilroy mideium
+color = FFFFFF
+sixe = 30
